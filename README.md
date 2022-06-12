@@ -42,7 +42,9 @@ The data used will inform the marketing department on the most relevant marketin
 # Dataset
 
 Dimensionality Reduction and Feature Selection dataset link: http://bit.ly/CarreFourDataset
+
 Association Rules dataset link: http://bit.ly/SupermarketDatasetII
+
 Anomaly Detection dataset link: http://bit.ly/CarreFourSalesDataset
 
 # License
